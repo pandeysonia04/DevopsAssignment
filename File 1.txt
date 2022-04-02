@@ -1,1 +1,2 @@
 HI , this is a dummy file
+Learning how to resolve conflict
