@@ -1,2 +1,7 @@
 HI , this is a dummy file
-Learning how to resolve conflict
+
+Learning how to resolve conflict and keeping the changes both by local and dummy user
+
+
+Changes by the Dummy user
+
